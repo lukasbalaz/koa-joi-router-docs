@@ -16,8 +16,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "joi-to-swagger": "^3.1.0",
     "lodash": "^4.15.0",
-    "o2team-joi-to-swagger": "^1.2.0",
     "path-to-regexp": "^1.5.3"
   },
   "devDependencies": {
